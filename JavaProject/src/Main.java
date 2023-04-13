@@ -4,5 +4,6 @@ public class Main {
 		
 		System.out.println("I'm TAKAGI Masamune");
 		System.out.println("Test1");
+		System.out.println("Test");
 	}
 }
